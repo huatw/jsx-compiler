@@ -1,0 +1,11 @@
+{
+  "name": "jsx-compiler",
+  "version": "0.0.3",
+  "description": "a super naive jsx parser.",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "author": "huatw",
+  "license": "MIT"
+}
